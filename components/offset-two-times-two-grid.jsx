@@ -2,27 +2,27 @@ import {ChatBubbleOvalLeftEllipsisIcon, HeartIcon, PencilSquareIcon, TrashIcon} 
 
 const features = [
     {
-        name: 'Spam report',
+        name: 'We build it fast and secure',
         description:
-            'Autem reprehenderit aut debitis ut. Officiis harum omnis placeat blanditiis delectus sint vel et voluptatum. Labore asperiores non corporis molestiae.',
+            'You invirsoaroivm.',
         icon: TrashIcon,
     },
     {
-        name: 'Compose in markdown',
+        name: 'Dangerous',
         description:
-            'Illum et aut inventore. Ut et dignissimos quasi. Omnis saepe dolorum. Hic autem fugiat. Voluptatem officiis necessitatibus est.',
+            'It is dangerous to go alone, take this.',
         icon: PencilSquareIcon,
     },
     {
-        name: 'Email commenting',
+        name: 'Fuck',
         description:
-            'Commodi quam quo. In quasi mollitia optio voluptate et est reiciendis. Ut et sunt id officiis vitae perspiciatis. Et accusantium sapiente.',
+            'Fuck.',
         icon: ChatBubbleOvalLeftEllipsisIcon,
     },
     {
-        name: 'Customer connections',
+        name: 'Shit',
         description:
-            'Deserunt corrupti praesentium quo vel cupiditate est occaecati ad. Aperiam libero modi similique iure praesentium facilis quo cumque quibusdam.',
+            'Get some deep shit.',
         icon: HeartIcon,
     },
 ]
